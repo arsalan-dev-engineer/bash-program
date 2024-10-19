@@ -36,3 +36,5 @@ folder_exists
 
 # -f: Checks if the specified path is a regular file
 # -d: Checks if the specified path is a directory
+# [ ... ]: Test command used for evaluating expressions; also known as 'test'.
+
