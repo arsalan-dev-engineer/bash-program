@@ -33,3 +33,6 @@ function folder_exists {
 # Call the functions to execute the checks
 file_exists
 folder_exists
+
+# -f: Checks if the specified path is a regular file
+# -d: Checks if the specified path is a directory
