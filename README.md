@@ -1,7 +1,11 @@
 # bash-program
 This repository contains Bash scripts, practice files, notes, and documentation.
 
+## Bash Commands and Concepts
 
+This table summarizes various Bash commands and concepts, providing a brief explanation and a simple example for each. It serves as a quick reference for understanding and using these commands effectively in your Bash scripts.
+
+<br>
 
 | Command/Concept         | Explanation                                     | Example                                      |
 |-------------------------|-------------------------------------------------|----------------------------------------------|
